@@ -1,0 +1,1 @@
+Task: "Generate and display on the screen a text file that contains only sequences of characters located inside the operator brackets '(' – ')'. Convert the characters in these lines to their numerical representation and calculate their sum."
